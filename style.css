@@ -1,0 +1,110 @@
+/*
+Theme Name: Simpla-Jw
+Theme URI: http://jawuer.com/themes/
+Author: Jawuer Morales
+Author URI: http://jawuer.com/
+Description: Página simple que usa estructuras de "bootstrap" y animaciones gracias a "animate.css" y a "wow.js" Esta es la segunda versión y se encuentra en un 90% de funcionabilidad en cuanto al rendimiento SEO. Es especial para mostrar servicios, productos y mucho más en su página principal y su blog es un gran apoyo para complementar la finalidad de la página. 
+Version: 2.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, right-sidebar, accessibility-ready, custom-menu, blog
+Text Domain: simpla-jw
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/* Nav Color */
+.color {
+    background:#121934 !important;
+}
+.color a {
+    color:#fff;
+}
+.color a:hover {
+    color:#4F6CE1;
+}
+a {
+    color:#ccc !important;
+}
+a:hover {
+    color:#8E8E8E !important;
+}
+header img {
+    width:100%;
+}
+.i {
+    margin-bottom:2%;
+}
+.i img {
+    width:100%;
+}
+.as a{
+    padding-right:10%;
+    text-decoration:none;
+    color:#000;
+}
+textarea {
+    width:100%;
+}
+input {
+    width:100%;
+}
+.blog article {
+    margin: 2% 1% 1% 4%;
+    padding:2%;
+    border-radius: 1px 10px;
+    box-shadow:0px 1px 4px #000;
+}
+aside div ul li {
+    text-decoration:none;
+    list-style:none;
+}
+.comments {
+    padding:2%;
+    box-shadow:1px 2px 2px #000;
+}
+.comments li {
+    list-style:none;
+    text-decoration:none;
+}
+.comment ul li {
+    padding:2%;
+    box-shadow:1px 2px 2px #000;
+}
+.menu li {
+    float:left;
+    list-style:none;
+    text-decoration:none;
+    margin-left:20px;
+}
+.wp-caption {
+    
+}
+.wp-caption-text{
+    
+}
+.screen-reader-text {
+    
+}
+.gallery-caption{
+    
+}
+.bypostauthor{
+    
+}
+.alignright{
+    
+}
+.alignleft{
+    
+}
+.aligncenter{
+    align-content:center;
+}
+
+footer {
+    color:#fff  ;
+    padding:2%;
+    background-color:#121934;
+}
